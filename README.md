@@ -164,4 +164,4 @@ add, commmit 기록 되돌리기
 ***
 ***
 ## 6. github 마크다운 사용법
-[**링크 참조**](http://whatismarkdown.com/)
+[링크 참조](https://gist.github.com/652be052a0727ad59601.git)
