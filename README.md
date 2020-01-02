@@ -22,8 +22,9 @@ repository 는 실제 소스코드가 담겨있으면서 커밋 내역 등의 �
   3. local Repository   : .git 에 있는 작업공간(github에 띄우기 전 작업공간)
   4. remote Repository  : github에 있는 작업공간
 ```
-
-
+<p>
+<br><br>
+</p>
 
 ## 3. git commands
 
@@ -57,8 +58,8 @@ add, commmit 기록 되돌리기
 <br><br>
 </p>
 
-## 3. git branch
-### 3.1 branch concept
+## 4. git branch
+### 4.1 branch concept
 
 말그대로 가지치기라고 생각하면 된다.
 ```
@@ -71,7 +72,7 @@ add, commmit 기록 되돌리기
 #### ● master branch : 디폴트 가지
 ```  -> 항상 안정화 되어있도록 유지해야한다.```
 
-### 3.2 branch commands
+### 4.2 branch commands
 
 #### ● git branch
 ```브랜치 종류 보는 명령어, *master 이렇게 앞에 '*'은 지금 해당 브랜치 작업중임을 보여준다.```
@@ -94,7 +95,7 @@ add, commmit 기록 되돌리기
 
 
 
-### 3.3 branch conflicts
+### 4.3 branch conflicts
 브랜치를 만들다보면 충돌이 일어나서 push 가 더이상 안될 때!
 
 #### ● 해결방법
@@ -108,7 +109,7 @@ add, commmit 기록 되돌리기
 <br><br>
 </p>
 
-## 4. Remote Repository
+## 5. Remote Repository
 
 네트워크 저장소에 어딘가 존재하는 저장소!
 예를들어, 깃 허브 서버에 있는 저장소나 다른 저장소를 가질 수 있다.
@@ -136,8 +137,8 @@ add, commmit 기록 되돌리기
 <br><br>
 </p>
 
-## 5. git log 관리
-### 5.1 git log commands
+## 6. git log 관리
+### 6.1 git log commands
 
 #### ● git log
   ```
@@ -172,5 +173,5 @@ add, commmit 기록 되돌리기
 <br><br>
 </p>
 
-## 6. github 마크다운 사용법
+## 7. github 마크다운 사용법
 [링크 참조](https://gist.github.com/652be052a0727ad59601.git)
