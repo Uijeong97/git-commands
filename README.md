@@ -9,9 +9,10 @@
 
   branch 를 merge 하려고 하는데 안된다 => 작업 이력이 달라서 그렇다.
 ```
+<p>
+<br><br>
+</p>
 
-***
-***
 ## 2. git repository
 
 repository 는 실제 소스코드가 담겨있으면서 커밋 내역 등의 작업이력이 담겨있다.
@@ -52,8 +53,10 @@ add, commmit 기록 되돌리기
 해당 해쉬값 기준으로 돌아간다. 그 이후의 log 들은 다 삭제
 ```
 
-***
-***
+<p>
+<br><br>
+</p>
+
 ## 3. git branch
 ### 3.1 branch concept
 
@@ -101,8 +104,10 @@ add, commmit 기록 되돌리기
   그리고 어떤 코드를 사용할 지 수동으로 결정해주어야 한다!
 ```
 
-***
-***
+<p>
+<br><br>
+</p>
+
 ## 4. Remote Repository
 
 네트워크 저장소에 어딘가 존재하는 저장소!
@@ -127,8 +132,10 @@ add, commmit 기록 되돌리기
 ```원격 저장소 삭제```
 
 
-***
-***
+<p>
+<br><br>
+</p>
+
 ## 5. git log 관리
 ### 5.1 git log commands
 
@@ -161,7 +168,9 @@ add, commmit 기록 되돌리기
   해쉬[%h]->언제[%ar]->어떤메시지[%s]
   ```
   
-***
-***
+<p>
+<br><br>
+</p>
+
 ## 6. github 마크다운 사용법
 [링크 참조](https://gist.github.com/652be052a0727ad59601.git)
